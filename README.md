@@ -18,6 +18,7 @@ and then Run ./WeatherStatistics"
 
 **Input test data**
 >   For the date: yyyy_mm_dd
+> 
 >   for the time: hh:mm:ss
 
 ### Necessary knowledge
